@@ -48,3 +48,6 @@ improvement.
 app visitors. \
 • Identify customer demographics, preferences, and behavior based on the available data. \
 • Highlight key insights or patterns to help us better understand our customers.
+
+
+<img src="Page1.png">
