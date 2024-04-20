@@ -31,13 +31,13 @@ The online shopping industry is changing quickly, and using data analysis is imp
 • Analyze the sales data to identify any seasonal or periodic trends. \
 • Determine the days, weeks, or months with the highest sales volume. \
 • Provide recommendations for leveraging these patterns for targeted marketing or promotional 
-activities. \
+activities.
 
 **Products:** \
 • Analyze sales revenue, units sold, and average order value for each product. \
 • Identify top-selling products or categories based on sales volume. \
 • Explore any trends or patterns in product performance and suggest strategies for 
-improvement. \
+improvement.
 
 **Customers:** \
 • Calculate the conversion rate by dividing the number of purchases by the total number of 
