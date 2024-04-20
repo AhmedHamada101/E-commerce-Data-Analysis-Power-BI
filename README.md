@@ -1,4 +1,4 @@
-                                                                                                                        # E-commerce-Data-Analysis
+# E-commerce-Data-Analysis
 
 ## Project Overview
 The online shopping industry is changing quickly, and using data analysis is important to stay competitive. In our example, we show how Power BI can help businesses understand e-commerce data better. This helps them make smart choices and grow. Power BI makes it easy to get data ready, see it in graphs, and share it with others. It's a great tool for studying e-commerce info and getting ahead in business.
