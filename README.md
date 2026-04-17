@@ -31,10 +31,11 @@ The online shopping industry is changing quickly, and using data analysis is imp
 
 **Despite being built in Power BI, the project utilizes a professional Star Schema architecture:** \
 
-- Fact Table: Centralized fact_table containing over $1.27M in orders data. \
-- Dimension Tables: 3 descriptive tables (Data, Customers, Orders Details ) linked via 1:* (one-to-many) relationships.\
-- Model Efficiency: Optimized for performance to ensure slicers update the visuals instantly.
+• Fact Table: Centralized fact_table containing over $1.27M in orders data. \
+• Dimension Tables: 3 descriptive tables (Data, Customers, Orders Details ) linked via 1:* (one-to-many) relationships.\
+• Model Efficiency: Optimized for performance to ensure slicers update the visuals instantly.
 
+<img src="Data Model.png">
 
 
 ## Analyzing Data and Finding Insights:
