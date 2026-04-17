@@ -27,6 +27,16 @@ The online shopping industry is changing quickly, and using data analysis is imp
 7. Creating a New Table containing Order Date Details
 
 
+## Data Modeling:
+
+**Despite being built in Power BI, the project utilizes a professional Star Schema architecture:** \
+
+- Fact Table: Centralized fact_table containing over $1.27M in orders data. \
+- Dimension Tables: 3 descriptive tables (Data, Customers, Orders Details ) linked via 1:* (one-to-many) relationships.\
+- Model Efficiency: Optimized for performance to ensure slicers update the visuals instantly.
+
+
+
 ## Analyzing Data and Finding Insights:
 
 **Here are the specific analysis points we focused on:**
