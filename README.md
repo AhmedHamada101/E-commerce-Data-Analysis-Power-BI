@@ -1,4 +1,4 @@
-# E-commerce-Data-Analysis
+# E-commerce-Data-Analysis (Power BI)
 
 
 ## [Click here to interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzVkNzEyYWItMWU5OC00OWE1LThiZDItODUwZTM5YWJhMWZmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
