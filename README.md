@@ -36,7 +36,6 @@ The online shopping industry is changing quickly, and using data analysis is imp
 
 <img src="Data Model.png">
 
-
 ## Analyzing Data and Finding Insights:
 
 **Here are the specific analysis points we focused on:**
