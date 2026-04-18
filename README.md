@@ -46,11 +46,13 @@ The online shopping industry is changing quickly, and using data analysis is imp
 • Provide recommendations for leveraging these patterns for targeted marketing or promotional 
 activities.
 
+
 **Products:** \
 • Analyze sales revenue, units sold, and average order value for each product. \
 • Identify top-selling products or categories based on sales volume. \
 • Explore any trends or patterns in product performance and suggest strategies for 
 improvement.
+
 
 **Customers:** \
 • Calculate the conversion rate by dividing the number of purchases by the total number of 
